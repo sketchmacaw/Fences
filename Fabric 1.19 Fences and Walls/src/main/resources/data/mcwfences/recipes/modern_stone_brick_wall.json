@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+		"ABA",
+		"AAA"
+    ],
+    
+    "key":
+    { 
+        "A":
+        {
+            "item": "minecraft:stone_bricks"
+        },    
+        
+        "B":
+        {
+            "item": "minecraft:cobblestone"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwfences:modern_stone_brick_wall",
+        "count": 6
+    }
+}
+
+

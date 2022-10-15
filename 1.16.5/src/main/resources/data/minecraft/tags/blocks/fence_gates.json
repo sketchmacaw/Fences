@@ -1,0 +1,43 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:acacia_fence_gate",
+    "minecraft:birch_fence_gate",
+    "minecraft:dark_oak_fence_gate",
+    "minecraft:jungle_fence_gate",
+    "minecraft:oak_fence_gate",
+    "minecraft:spruce_fence_gate",
+    "minecraft:crimson_fence_gate",
+    "minecraft:warped_fence_gate",
+
+	"mcwfences:oak_highley_gate",
+	"mcwfences:oak_pyramid_gate",
+	"mcwfences:spruce_highley_gate",
+	"mcwfences:spruce_pyramid_gate",
+	"mcwfences:birch_highley_gate",
+	"mcwfences:birch_pyramid_gate",
+	"mcwfences:jungle_highley_gate",
+	"mcwfences:jungle_pyramid_gate",
+	"mcwfences:acacia_highley_gate",
+	"mcwfences:acacia_pyramid_gate",
+	"mcwfences:dark_oak_highley_gate",
+	"mcwfences:dark_oak_pyramid_gate",
+	"mcwfences:crimson_highley_gate",
+	"mcwfences:crimson_pyramid_gate",
+	"mcwfences:warped_highley_gate",
+	"mcwfences:warped_pyramid_gate",
+	
+	"mcwfences:stone_brick_railing_gate",
+	"mcwfences:andesite_railing_gate",
+	"mcwfences:diorite_railing_gate",
+	"mcwfences:granite_railing_gate",
+	"mcwfences:sandstone_railing_gate",
+	"mcwfences:red_sandstone_railing_gate",
+	"mcwfences:blackstone_railing_gate",
+	"mcwfences:blackstone_brick_railing_gate",
+	"mcwfences:nether_brick_railing_gate",
+	"mcwfences:end_brick_railing_gate",
+	"mcwfences:quartz_railing_gate"
+
+  ]
+}

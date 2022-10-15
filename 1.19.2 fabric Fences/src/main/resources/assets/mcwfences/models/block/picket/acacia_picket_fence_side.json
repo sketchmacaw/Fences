@@ -1,0 +1,10 @@
+
+	
+{
+	"parent": "mcwfences:block/parent/picket_fence_side",
+	"textures": {
+		"2": "minecraft:block/acacia_log",
+		"particle": "minecraft:block/acacia_planks",
+		"texture": "minecraft:block/acacia_planks"
+	}
+}

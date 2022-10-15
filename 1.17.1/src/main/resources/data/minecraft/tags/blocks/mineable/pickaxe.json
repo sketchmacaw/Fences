@@ -1,0 +1,45 @@
+{
+    "replace": false,
+    "values": [
+        "mcwfences:modern_stone_brick_wall",
+        "mcwfences:modern_andesite_wall",
+        "mcwfences:modern_diorite_wall",
+        "mcwfences:modern_granite_wall",
+        "mcwfences:modern_end_brick_wall",
+        "mcwfences:modern_nether_brick_wall",
+        "mcwfences:modern_blackstone_wall",
+        "mcwfences:modern_sandstone_wall",
+        "mcwfences:modern_red_sandstone_wall",
+		"mcwfences:modern_deepslate_brick_wall",
+        "mcwfences:modern_deepslate_wall",
+		"mcwfences:modern_quartz_wall",
+
+        "mcwfences:railing_stone_brick_wall",
+        "mcwfences:railing_andesite_wall",
+        "mcwfences:railing_diorite_wall",
+        "mcwfences:railing_granite_wall",
+        "mcwfences:railing_end_brick_wall",
+        "mcwfences:railing_nether_brick_wall",
+        "mcwfences:railing_blackstone_wall",
+        "mcwfences:railing_sandstone_wall",
+        "mcwfences:railing_red_sandstone_wall",
+		"mcwfences:railing_deepslate_brick_wall",
+        "mcwfences:railing_deepslate_wall",
+		"mcwfences:railing_quartz_wall",
+		
+		"mcwfences:stone_brick_railing_gate",
+        "mcwfences:andesite_railing_gate",
+        "mcwfences:diorite_railing_gate",
+        "mcwfences:granite_railing_gate",
+        "mcwfences:sandstone_railing_gate",
+        "mcwfences:red_sandstone_railing_gate",
+        "mcwfences:blackstone_railing_gate",
+        "mcwfences:blackstone_brick_railing_gate",
+        "mcwfences:nether_brick_railing_gate",
+		"mcwfences:end_brick_railing_gate",
+        "mcwfences:deepslate_railing_gate",
+		"mcwfences:deepslate_brick_railing_gate",
+		"mcwfences:quartz_railing_gate"
+
+    ]
+}

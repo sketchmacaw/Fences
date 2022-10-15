@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+		"ABA",
+		"AAA"
+    ],
+    
+    "key":
+    { 
+        "A":
+        {
+            "item": "minecraft:quartz_bricks"
+        },    
+        
+        "B":
+        {
+            "item": "minecraft:quartz_block"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwfences:modern_quartz_wall",
+        "count": 6
+    }
+}
+
+

@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+		"ABA",
+		"AAA"
+    ],
+    
+    "key":
+    { 
+        "A":
+        {
+            "item": "minecraft:smooth_red_sandstone"
+        },    
+        
+        "B":
+        {
+            "item": "minecraft:iron_bars"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwfences:railing_red_sandstone_wall",
+        "count": 6
+    }
+}
+
+

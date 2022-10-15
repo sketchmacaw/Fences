@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "minecraft:sandstone"
+    },
+    "result": "mcwfences:sandstone_railing_gate",
+    "group": "fences",
+    "count": 1
+}

@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+		"ABA",
+		"BAB"
+    ],
+    
+    "key":
+    { 
+        "B":
+        {
+            "item": "minecraft:stick"
+        },    
+        
+        "A":
+        {
+            "item": "minecraft:spruce_log"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwfences:spruce_horse_fence",
+        "count": 3
+    }
+}
+
+

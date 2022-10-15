@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+		"ABA",
+		"AAA"
+    ],
+    
+    "key":
+    { 
+        "A":
+        {
+            "item": "minecraft:polished_andesite"
+        },    
+        
+        "B":
+        {
+            "item": "minecraft:iron_bars"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwfences:railing_andesite_wall",
+        "count": 6
+    }
+}
+
+

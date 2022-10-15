@@ -1,0 +1,8 @@
+{
+	"parent": "mcwfences:block/parent/pyramid_gate",
+	"textures": {
+		"3": "minecraft:block/warped_stem",
+		"6": "minecraft:block/warped_planks",
+		"particle": "minecraft:block/warped_planks"
+	}
+}

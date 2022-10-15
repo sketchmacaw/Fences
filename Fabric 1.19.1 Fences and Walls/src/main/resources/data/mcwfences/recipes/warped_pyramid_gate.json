@@ -1,0 +1,35 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+		"ABA",
+		"ACA"
+    ],
+    
+    "key":
+    { 
+        "A":
+        {
+            "item": "minecraft:stick"
+        },    
+        
+        "B":
+        {
+            "item": "minecraft:warped_stem"
+        },
+		
+		"C":
+        {
+            "item": "minecraft:warped_planks"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwfences:warped_pyramid_gate",
+        "count": 1
+    }
+}
+
+

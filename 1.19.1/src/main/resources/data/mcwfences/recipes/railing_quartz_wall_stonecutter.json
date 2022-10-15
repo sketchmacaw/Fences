@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "minecraft:quartz_block"
+    },
+    "result": "mcwfences:railing_quartz_wall",
+    "group": "fences",
+    "count": 1
+}

@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+		"ABA",
+		"AAA"
+    ],
+    
+    "key":
+    { 
+        "A":
+        {
+            "item": "minecraft:deepslate_bricks"
+        },    
+        
+        "B":
+        {
+            "item": "minecraft:deepslate_tiles"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwfences:modern_deepslate_brick_wall",
+        "count": 6
+    }
+}
+
+

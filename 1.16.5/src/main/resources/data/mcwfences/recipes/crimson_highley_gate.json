@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+		"ABA",
+		"ABA"
+    ],
+    
+    "key":
+    { 
+        "A":
+        {
+            "item": "minecraft:stick"
+        },    
+        
+        "B":
+        {
+            "item": "minecraft:crimson_stem"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwfences:crimson_highley_gate",
+        "count": 1
+    }
+}
+
+

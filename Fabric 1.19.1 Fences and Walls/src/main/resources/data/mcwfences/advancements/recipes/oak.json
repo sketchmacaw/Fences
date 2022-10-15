@@ -1,0 +1,30 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+	  "mcwfences:oak_picket_fence",
+	  "mcwfences:oak_stockade_fence",
+	  "mcwfences:oak_horse_fence",
+	  "mcwfences:oak_wired_fence",
+	  "mcwfences:oak_highley_gate",
+	  "mcwfences:oak_pyramid_gate"
+    ]
+  },
+  "criteria": {
+    "has_oak": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:oak_log"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_oak"
+    ]
+  ]
+}

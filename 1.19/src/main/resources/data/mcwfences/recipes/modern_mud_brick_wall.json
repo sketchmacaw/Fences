@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+		"ABA",
+		"AAA"
+    ],
+    
+    "key":
+    { 
+        "A":
+        {
+            "item": "minecraft:packed_mud"
+        },    
+        
+        "B":
+        {
+            "item": "minecraft:mud_bricks"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwfences:modern_mud_brick_wall",
+        "count": 6
+    }
+}
+
+

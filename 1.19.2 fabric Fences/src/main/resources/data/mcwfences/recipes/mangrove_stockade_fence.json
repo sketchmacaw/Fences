@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+		"ABA",
+		"ABA"
+    ],
+    
+    "key":
+    { 
+        "A":
+        {
+            "item": "minecraft:mangrove_log"
+        },    
+        
+        "B":
+        {
+            "item": "minecraft:mangrove_planks"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwfences:mangrove_stockade_fence",
+        "count": 3
+    }
+}
+
+

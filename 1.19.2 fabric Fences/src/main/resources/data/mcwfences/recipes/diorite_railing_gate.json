@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+		"ABA",
+		"ABA"
+    ],
+    
+    "key":
+    { 
+        "A":
+        {
+            "item": "minecraft:iron_bars"
+        },    
+        
+        "B":
+        {
+            "item": "minecraft:polished_diorite"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwfences:diorite_railing_gate",
+        "count": 1
+    }
+}
+
+

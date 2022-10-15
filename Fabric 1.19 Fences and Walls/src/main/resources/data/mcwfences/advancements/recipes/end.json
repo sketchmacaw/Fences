@@ -1,0 +1,27 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+	  "mcwfences:modern_end_brick_wall",
+	  "mcwfences:railing_end_brick_wall",
+	  "mcwfences:end_brick_railing_gate"
+    ]
+  },
+  "criteria": {
+    "has_end_brick": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:end_stone_bricks"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_end_brick"
+    ]
+  ]
+}

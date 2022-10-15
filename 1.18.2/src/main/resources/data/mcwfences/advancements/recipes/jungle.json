@@ -1,0 +1,30 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+	  "mcwfences:jungle_picket_fence",
+	  "mcwfences:jungle_stockade_fence",
+	  "mcwfences:jungle_horse_fence",
+	  "mcwfences:jungle_wired_fence",
+	  "mcwfences:jungle_highley_gate",
+	  "mcwfences:jungle_pyramid_gate"
+    ]
+  },
+  "criteria": {
+    "has_jungle": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:jungle_log"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_jungle"
+    ]
+  ]
+}

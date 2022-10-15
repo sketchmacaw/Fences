@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+		"ABA",
+		"AAA"
+    ],
+    
+    "key":
+    { 
+        "A":
+        {
+            "item": "minecraft:polished_diorite"
+        },    
+        
+        "B":
+        {
+            "item": "minecraft:diorite"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwfences:modern_diorite_wall",
+        "count": 6
+    }
+}
+
+

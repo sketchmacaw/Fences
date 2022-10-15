@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+		"ABA",
+		"AAA"
+    ],
+    
+    "key":
+    { 
+        "A":
+        {
+            "item": "minecraft:polished_blackstone_bricks"
+        },    
+        
+        "B":
+        {
+            "item": "minecraft:blackstone"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwfences:modern_blackstone_wall",
+        "count": 6
+    }
+}
+
+

@@ -1,0 +1,27 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+	  "mcwfences:modern_mud_brick_wall",
+	  "mcwfences:railing_mud_brick_wall",
+	  "mcwfences:mud_brick_railing_gate"
+    ]
+  },
+  "criteria": {
+    "has_qq": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:mud_bricks"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_qq"
+    ]
+  ]
+}

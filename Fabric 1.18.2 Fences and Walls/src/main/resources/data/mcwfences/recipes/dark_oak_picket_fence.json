@@ -1,0 +1,35 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+		"CBC",
+		"CAC"
+    ],
+    
+    "key":
+    { 
+        "A":
+        {
+            "item": "minecraft:stick"
+        },  
+
+        "B":
+        {
+            "item": "minecraft:dark_oak_planks"
+        },   		
+        
+        "C":
+        {
+            "item": "minecraft:dark_oak_log"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwfences:dark_oak_picket_fence",
+        "count": 3
+    }
+}
+
+

@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+		"ABA",
+		"AAA"
+    ],
+    
+    "key":
+    { 
+        "A":
+        {
+            "item": "minecraft:end_stone_bricks"
+        },    
+        
+        "B":
+        {
+            "item": "minecraft:end_stone"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwfences:modern_end_brick_wall",
+        "count": 6
+    }
+}
+
+

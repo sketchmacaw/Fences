@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+		"ABA",
+		"ABA"
+    ],
+    
+    "key":
+    { 
+        "A":
+        {
+            "item": "minecraft:iron_bars"
+        },    
+        
+        "B":
+        {
+            "item": "minecraft:nether_bricks"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwfences:nether_brick_railing_gate",
+        "count": 1
+    }
+}
+
+

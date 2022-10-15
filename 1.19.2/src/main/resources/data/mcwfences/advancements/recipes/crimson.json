@@ -1,0 +1,30 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+	  "mcwfences:crimson_picket_fence",
+	  "mcwfences:crimson_stockade_fence",
+	  "mcwfences:crimson_horse_fence",
+	  "mcwfences:crimson_wired_fence",
+	  "mcwfences:crimson_highley_gate",
+	  "mcwfences:crimson_pyramid_gate"
+    ]
+  },
+  "criteria": {
+    "has_crimson": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:crimson_stem"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_crimson"
+    ]
+  ]
+}

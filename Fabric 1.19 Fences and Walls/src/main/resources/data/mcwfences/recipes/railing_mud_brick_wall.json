@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+		"ABA",
+		"AAA"
+    ],
+    
+    "key":
+    { 
+        "A":
+        {
+            "item": "minecraft:mud_bricks"
+        },    
+        
+        "B":
+        {
+            "item": "minecraft:iron_bars"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwfences:railing_mud_brick_wall",
+        "count": 6
+    }
+}
+
+

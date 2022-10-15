@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+		"ABA",
+		"ABA"
+    ],
+    
+    "key":
+    { 
+        "A":
+        {
+            "item": "minecraft:crimson_stem"
+        },    
+        
+        "B":
+        {
+            "item": "minecraft:crimson_planks"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwfences:crimson_stockade_fence",
+        "count": 3
+    }
+}
+
+

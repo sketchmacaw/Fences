@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+		"ABA",
+		"ABA"
+    ],
+    
+    "key":
+    { 
+        "A":
+        {
+            "item": "minecraft:iron_bars"
+        },    
+        
+        "B":
+        {
+            "item": "minecraft:polished_granite"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwfences:granite_railing_gate",
+        "count": 1
+    }
+}
+
+

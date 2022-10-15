@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "minecraft:blackstone"
+    },
+    "result": "mcwfences:modern_blackstone_wall",
+    "group": "fences",
+    "count": 1
+}

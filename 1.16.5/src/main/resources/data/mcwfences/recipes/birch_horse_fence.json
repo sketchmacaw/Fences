@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+		"ABA",
+		"BAB"
+    ],
+    
+    "key":
+    { 
+        "B":
+        {
+            "item": "minecraft:stick"
+        },    
+        
+        "A":
+        {
+            "item": "minecraft:birch_log"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwfences:birch_horse_fence",
+        "count": 3
+    }
+}
+
+

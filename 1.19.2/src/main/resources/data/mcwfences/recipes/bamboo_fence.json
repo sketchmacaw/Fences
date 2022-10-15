@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+		"A A",
+		"AAA",
+		" A "
+    ],
+    
+    "key":
+    { 
+
+        "A":
+        {
+            "item": "minecraft:bamboo"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwfences:bamboo_fence",
+        "count": 2
+    }
+}
+
+
