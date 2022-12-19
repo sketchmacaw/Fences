@@ -38,7 +38,17 @@ public class ClientEventBusSubscriber {
 		ItemBlockRenderTypes.setRenderLayer(BlockInit.RAILING_DEEPSLATE_WALL.get(), RenderType.cutout());
 		ItemBlockRenderTypes.setRenderLayer(BlockInit.RAILING_DEEPSLATE_BRICK_WALL.get(), RenderType.cutout());
 		ItemBlockRenderTypes.setRenderLayer(BlockInit.RAILING_QUARTZ_WALL.get(), RenderType.cutout());
+		ItemBlockRenderTypes.setRenderLayer(BlockInit.RAILING_PRISMARINE_WALL.get(), RenderType.cutout());
 		
+		ItemBlockRenderTypes.setRenderLayer(BlockInit.OAK_HEDGE.get(), RenderType.cutout());
+		ItemBlockRenderTypes.setRenderLayer(BlockInit.SPRUCE_HEDGE.get(), RenderType.cutout());
+		ItemBlockRenderTypes.setRenderLayer(BlockInit.BIRCH_HEDGE.get(), RenderType.cutout());
+		ItemBlockRenderTypes.setRenderLayer(BlockInit.JUNGLE_HEDGE.get(), RenderType.cutout());
+		ItemBlockRenderTypes.setRenderLayer(BlockInit.ACACIA_HEDGE.get(), RenderType.cutout());
+		ItemBlockRenderTypes.setRenderLayer(BlockInit.DARK_OAK_HEDGE.get(), RenderType.cutout());
+		ItemBlockRenderTypes.setRenderLayer(BlockInit.AZALEA_HEDGE.get(), RenderType.cutout());
+		ItemBlockRenderTypes.setRenderLayer(BlockInit.FLOWERING_AZALEA_HEDGE.get(), RenderType.cutout());
+
 		ItemBlockRenderTypes.setRenderLayer(BlockInit.OAK_PICKET_FENCE.get(), RenderType.cutout());
 		ItemBlockRenderTypes.setRenderLayer(BlockInit.BIRCH_PICKET_FENCE.get(), RenderType.cutout());
 		ItemBlockRenderTypes.setRenderLayer(BlockInit.JUNGLE_PICKET_FENCE.get(), RenderType.cutout());
@@ -68,6 +78,7 @@ public class ClientEventBusSubscriber {
 		ItemBlockRenderTypes.setRenderLayer(BlockInit.DEEPSLATE_RAILING_GATE.get(), RenderType.cutout());
 		ItemBlockRenderTypes.setRenderLayer(BlockInit.DEEPSLATE_BRICK_RAILING_GATE.get(), RenderType.cutout());
 		ItemBlockRenderTypes.setRenderLayer(BlockInit.QUARTZ_RAILING_GATE.get(), RenderType.cutout());
+		ItemBlockRenderTypes.setRenderLayer(BlockInit.PRISMARINE_RAILING_GATE.get(), RenderType.cutout());
 
 	}
 }

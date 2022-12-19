@@ -42,7 +42,11 @@
         "mcwfences:deepslate_railing_gate",
 		"mcwfences:deepslate_brick_railing_gate",
 		"mcwfences:quartz_railing_gate",
-		"mcwfences:mud_brick_railing_gate"
+		"mcwfences:mud_brick_railing_gate",
+		
+		"mcwfences:modern_prismarine_wall",
+		"mcwfences:railing_prismarine_wall",
+		"mcwfences:prismarine_railing_gate"
 
     ]
 }

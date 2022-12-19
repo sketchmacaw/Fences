@@ -1,0 +1,27 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+	  "mcwfences:modern_prismarine_wall",
+	  "mcwfences:railing_prismarine_wall",
+	  "mcwfences:prismarine_railing_gate"
+    ]
+  },
+  "criteria": {
+    "has_qq": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:prismarine"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_qq"
+    ]
+  ]
+}

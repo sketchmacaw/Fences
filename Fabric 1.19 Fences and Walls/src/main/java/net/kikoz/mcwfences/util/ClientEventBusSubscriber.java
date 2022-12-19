@@ -32,6 +32,17 @@ public class ClientEventBusSubscriber implements ClientModInitializer {
         BlockRenderLayerMap.INSTANCE.putBlock(BlockInit.RAILING_DEEPSLATE_BRICK_WALL, RenderLayer.getCutout());
         BlockRenderLayerMap.INSTANCE.putBlock(BlockInit.RAILING_QUARTZ_WALL, RenderLayer.getCutout());
         BlockRenderLayerMap.INSTANCE.putBlock(BlockInit.RAILING_MUD_BRICK_WALL, RenderLayer.getCutout());
+        BlockRenderLayerMap.INSTANCE.putBlock(BlockInit.RAILING_PRISMARINE_WALL, RenderLayer.getCutout());
+
+        BlockRenderLayerMap.INSTANCE.putBlock(BlockInit.OAK_HEDGE, RenderLayer.getCutout());
+        BlockRenderLayerMap.INSTANCE.putBlock(BlockInit.SPRUCE_HEDGE, RenderLayer.getCutout());
+        BlockRenderLayerMap.INSTANCE.putBlock(BlockInit.BIRCH_HEDGE, RenderLayer.getCutout());
+        BlockRenderLayerMap.INSTANCE.putBlock(BlockInit.JUNGLE_HEDGE, RenderLayer.getCutout());
+        BlockRenderLayerMap.INSTANCE.putBlock(BlockInit.ACACIA_HEDGE, RenderLayer.getCutout());
+        BlockRenderLayerMap.INSTANCE.putBlock(BlockInit.DARK_OAK_HEDGE, RenderLayer.getCutout());
+        BlockRenderLayerMap.INSTANCE.putBlock(BlockInit.AZALEA_HEDGE, RenderLayer.getCutout());
+        BlockRenderLayerMap.INSTANCE.putBlock(BlockInit.FLOWERING_AZALEA_HEDGE, RenderLayer.getCutout());
+        BlockRenderLayerMap.INSTANCE.putBlock(BlockInit.MANGROVE_HEDGE, RenderLayer.getCutout());
 
         BlockRenderLayerMap.INSTANCE.putBlock(BlockInit.OAK_PICKET_FENCE, RenderLayer.getCutout());
         BlockRenderLayerMap.INSTANCE.putBlock(BlockInit.BIRCH_PICKET_FENCE, RenderLayer.getCutout());
@@ -67,5 +78,6 @@ public class ClientEventBusSubscriber implements ClientModInitializer {
         BlockRenderLayerMap.INSTANCE.putBlock(BlockInit.DEEPSLATE_BRICK_RAILING_GATE, RenderLayer.getCutout());
         BlockRenderLayerMap.INSTANCE.putBlock(BlockInit.QUARTZ_RAILING_GATE, RenderLayer.getCutout());
         BlockRenderLayerMap.INSTANCE.putBlock(BlockInit.MUD_BRICK_RAILING_GATE, RenderLayer.getCutout());
+        BlockRenderLayerMap.INSTANCE.putBlock(BlockInit.PRISMARINE_RAILING_GATE, RenderLayer.getCutout());
     }
 }

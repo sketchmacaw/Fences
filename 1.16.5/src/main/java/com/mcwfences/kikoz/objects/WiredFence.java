@@ -1,5 +1,6 @@
 package com.mcwfences.kikoz.objects;
 
+
 import com.mcwfences.kikoz.init.DamageInit;
 
 import net.minecraft.block.BlockState;

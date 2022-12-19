@@ -22,6 +22,7 @@ import net.minecraftforge.fmllegacy.RegistryObject;
 import net.minecraftforge.fmlserverevents.FMLServerStartingEvent;
 import net.minecraftforge.registries.IForgeRegistry;
 
+
 @Mod("mcwfences")
 @Mod.EventBusSubscriber(modid = MacawsFences.MOD_ID, bus = Bus.MOD)
 public class MacawsFences 

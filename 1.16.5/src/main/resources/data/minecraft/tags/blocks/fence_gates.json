@@ -37,7 +37,9 @@
 	"mcwfences:blackstone_brick_railing_gate",
 	"mcwfences:nether_brick_railing_gate",
 	"mcwfences:end_brick_railing_gate",
-	"mcwfences:quartz_railing_gate"
+	"mcwfences:quartz_railing_gate",
+
+	"mcwfences:prismarine_railing_gate"
 
   ]
 }

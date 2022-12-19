@@ -13,7 +13,7 @@
     "sources": ""
   },
 
-  "license": "All Rights Reserved",
+  "license": "MIT",
   "icon": "assets/mcwfences/icon.png",
 
   "environment": "*",

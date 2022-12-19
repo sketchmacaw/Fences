@@ -36,7 +36,15 @@ public class ClientEventBusSubscriber {
 		RenderTypeLookup.setRenderLayer(BlockInit.RAILING_NETHER_BRICK_WALL.get(), RenderType.cutout());
 		RenderTypeLookup.setRenderLayer(BlockInit.RAILING_END_BRICK_WALL.get(), RenderType.cutout());
 		RenderTypeLookup.setRenderLayer(BlockInit.RAILING_QUARTZ_WALL.get(), RenderType.cutout());
+		RenderTypeLookup.setRenderLayer(BlockInit.RAILING_PRISMARINE_WALL.get(), RenderType.cutout());
 		
+		RenderTypeLookup.setRenderLayer(BlockInit.OAK_HEDGE.get(), RenderType.cutout());
+		RenderTypeLookup.setRenderLayer(BlockInit.SPRUCE_HEDGE.get(), RenderType.cutout());
+		RenderTypeLookup.setRenderLayer(BlockInit.BIRCH_HEDGE.get(), RenderType.cutout());
+		RenderTypeLookup.setRenderLayer(BlockInit.JUNGLE_HEDGE.get(), RenderType.cutout());
+		RenderTypeLookup.setRenderLayer(BlockInit.ACACIA_HEDGE.get(), RenderType.cutout());
+		RenderTypeLookup.setRenderLayer(BlockInit.DARK_OAK_HEDGE.get(), RenderType.cutout());
+
 		RenderTypeLookup.setRenderLayer(BlockInit.OAK_PICKET_FENCE.get(), RenderType.cutout());
 		RenderTypeLookup.setRenderLayer(BlockInit.BIRCH_PICKET_FENCE.get(), RenderType.cutout());
 		RenderTypeLookup.setRenderLayer(BlockInit.JUNGLE_PICKET_FENCE.get(), RenderType.cutout());
@@ -64,6 +72,7 @@ public class ClientEventBusSubscriber {
 		RenderTypeLookup.setRenderLayer(BlockInit.NETHER_BRICK_RAILING_GATE.get(), RenderType.cutout());
 		RenderTypeLookup.setRenderLayer(BlockInit.END_BRICK_RAILING_GATE.get(), RenderType.cutout());
 		RenderTypeLookup.setRenderLayer(BlockInit.QUARTZ_RAILING_GATE.get(), RenderType.cutout());
+		RenderTypeLookup.setRenderLayer(BlockInit.PRISMARINE_RAILING_GATE.get(), RenderType.cutout());
 
 	}
 }

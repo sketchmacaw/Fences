@@ -1,0 +1,31 @@
+{
+    "type": "minecraft:crafting_shaped",
+	"group": "modern",
+    
+    "pattern":
+    [
+		"ABA",
+		"AAA"
+    ],
+    
+    "key":
+    { 
+        "A":
+        {
+            "item": "minecraft:prismarine_bricks"
+        },    
+        
+        "B":
+        {
+            "item": "minecraft:prismarine"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwfences:modern_prismarine_wall",
+        "count": 6
+    }
+}
+
+

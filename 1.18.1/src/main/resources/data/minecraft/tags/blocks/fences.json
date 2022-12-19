@@ -66,7 +66,11 @@
         "mcwfences:railing_red_sandstone_wall",
 		"mcwfences:railing_deepslate_brick_wall",
 		"mcwfences:railing_deepslate_wall",
-		"mcwfences:railing_quartz_wall"
+		"mcwfences:railing_quartz_wall",
+		
+		"mcwfences:modern_prismarine_wall",
+		"mcwfences:railing_prismarine_wall"
+		
 
     ]
 }

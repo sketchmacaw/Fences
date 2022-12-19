@@ -1,9 +1,0 @@
-{
-    "type": "minecraft:stonecutting",
-    "ingredient": {
-        "item": "minecraft:diorite"
-    },
-    "result": "mcwfences:modern_diorite_wall",
-    "group": "fences",
-    "count": 1
-}

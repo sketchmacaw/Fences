@@ -1,0 +1,10 @@
+
+	
+{
+	"parent": "mcwfences:block/parent/inventory/modern_wall",
+	"textures": {
+		"1": "minecraft:block/prismarine",
+		"particle": "minecraft:block/prismarine",
+		"wall": "minecraft:block/prismarine"
+	}
+}

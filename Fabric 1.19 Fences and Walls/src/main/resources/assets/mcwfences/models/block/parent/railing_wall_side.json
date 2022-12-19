@@ -1,5 +1,6 @@
 {
 	"credit": "Made with Blockbench",
+	"render_type": "cutout",
 	"elements": [
 		{
 			"name": "wall",
@@ -7,11 +8,11 @@
 			"to": [9.8, 6, 8],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, -3, 8]},
 			"faces": {
-				"north": {"uv": [5, 2, 8.6, 8], "texture": "#wall", "cullface": "north"},
+				"north": {"uv": [5, 2, 8.6, 8], "texture": "#wall"},
 				"east": {"uv": [8, 10, 16, 16], "texture": "#wall"},
 				"west": {"uv": [8, 10, 16, 16], "texture": "#wall"},
 				"up": {"uv": [6, 2, 14, 6], "rotation": 90, "texture": "#wall"},
-				"down": {"uv": [4, 2, 12, 6], "rotation": 90, "texture": "#wall", "cullface": "down"}
+				"down": {"uv": [4, 2, 12, 6], "rotation": 90, "texture": "#wall"}
 			}
 		},
 		{

@@ -22,6 +22,8 @@ import net.minecraftforge.fml.event.server.FMLServerStartingEvent;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 import net.minecraftforge.registries.IForgeRegistry;
 
+
+
 @Mod("mcwfences")
 @Mod.EventBusSubscriber(modid = MacawsFences.MOD_ID, bus = Bus.MOD)
 public class MacawsFences 
@@ -85,4 +87,3 @@ public class MacawsFences
         }
     };	
 }
-
