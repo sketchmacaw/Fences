@@ -1,0 +1,31 @@
+{
+    "type": "minecraft:crafting_shaped",
+	"group": "highley",
+    
+    "pattern":
+    [
+		"ABA",
+		"ABA"
+    ],
+    
+    "key":
+    { 
+        "A":
+        {
+            "item": "minecraft:stick"
+        },    
+        
+        "B":
+        {
+            "item": "minecraft:birch_log"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwfences:birch_highley_gate",
+        "count": 1
+    }
+}
+
+

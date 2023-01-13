@@ -1,0 +1,36 @@
+{
+    "type": "minecraft:crafting_shaped",
+	"group": "pyramid",
+    
+    "pattern":
+    [
+		"ABA",
+		"ACA"
+    ],
+    
+    "key":
+    { 
+        "A":
+        {
+            "item": "minecraft:stick"
+        },    
+        
+        "B":
+        {
+            "item": "minecraft:jungle_log"
+        },
+		
+		"C":
+        {
+            "item": "minecraft:jungle_planks"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwfences:jungle_pyramid_gate",
+        "count": 1
+    }
+}
+
+

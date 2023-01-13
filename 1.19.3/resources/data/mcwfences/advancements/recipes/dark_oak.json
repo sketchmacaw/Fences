@@ -1,0 +1,30 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+	  "mcwfences:dark_oak_picket_fence",
+	  "mcwfences:dark_oak_stockade_fence",
+	  "mcwfences:dark_oak_horse_fence",
+	  "mcwfences:dark_oak_wired_fence",
+	  "mcwfences:dark_oak_highley_gate",
+	  "mcwfences:dark_oak_pyramid_gate"
+    ]
+  },
+  "criteria": {
+    "has_dark_oak": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:dark_oak_log"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_dark_oak"
+    ]
+  ]
+}

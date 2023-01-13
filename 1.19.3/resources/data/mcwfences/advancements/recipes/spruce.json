@@ -1,0 +1,30 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+	  "mcwfences:spruce_picket_fence",
+	  "mcwfences:spruce_stockade_fence",
+	  "mcwfences:spruce_horse_fence",
+	  "mcwfences:spruce_wired_fence",
+	  "mcwfences:spruce_highley_gate",
+	  "mcwfences:spruce_pyramid_gate"
+    ]
+  },
+  "criteria": {
+    "has_spruce": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:spruce_log"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_spruce"
+    ]
+  ]
+}

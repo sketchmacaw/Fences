@@ -1,0 +1,14 @@
+modLoader="javafml"
+loaderVersion="[28,)"
+license="MIT"
+
+logoFile="fenceslogo.png"
+[[mods]]
+modId="mcwfences"
+version="1.0.7"
+displayName="Macaw's Fences and Walls"
+displayURL="https://www.curseforge.com/minecraft/mc-mods/macaws-fences-and-walls"
+updateJSONURL="https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/fences.json"
+credits=""
+authors="Sketch Macaw & Peachy Macaw"
+description="Adds new vanila styled fences, walls and gates."
