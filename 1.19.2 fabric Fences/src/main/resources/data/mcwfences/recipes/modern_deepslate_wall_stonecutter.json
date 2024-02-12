@@ -1,9 +1,0 @@
-{
-    "type": "minecraft:stonecutting",
-    "ingredient": {
-        "item": "minecraft:polished_deepslate"
-    },
-    "result": "mcwfences:modern_deepslate_wall",
-    "group": "fences",
-    "count": 1
-}

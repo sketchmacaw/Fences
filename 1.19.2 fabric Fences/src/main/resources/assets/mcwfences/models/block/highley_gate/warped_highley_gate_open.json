@@ -1,8 +1,0 @@
-{
-	"parent": "mcwfences:block/parent/highley_gate_open",
-	"textures": {
-		"2": "minecraft:block/warped_planks",
-		"particle": "minecraft:block/warped_planks",
-		"texture": "minecraft:block/warped_stem"
-	}
-}

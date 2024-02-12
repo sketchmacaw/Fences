@@ -1,8 +1,0 @@
-{
-	"parent": "mcwfences:block/parent/highley_gate_open",
-	"textures": {
-		"2": "minecraft:block/spruce_planks",
-		"particle": "minecraft:block/spruce_planks",
-		"texture": "minecraft:block/spruce_log"
-	}
-}

@@ -1,9 +1,0 @@
-{
-    "type": "minecraft:stonecutting",
-    "ingredient": {
-        "item": "minecraft:prismarine"
-    },
-    "result": "mcwfences:modern_prismarine_wall",
-    "group": "fences",
-    "count": 1
-}

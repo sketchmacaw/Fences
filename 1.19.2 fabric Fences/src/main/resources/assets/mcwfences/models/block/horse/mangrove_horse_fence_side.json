@@ -1,9 +1,0 @@
-
-{
-	"parent": "mcwfences:block/parent/horse_fence_side",
-	"textures": {
-		"texture": "minecraft:block/mangrove_planks",
-		"particle": "minecraft:block/mangrove_planks",
-		"1_texture": "minecraft:block/mangrove_planks"
-	}
-}
